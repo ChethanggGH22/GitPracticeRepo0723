@@ -11,5 +11,12 @@ public class Evenfrom1to10
 				System.out.println(i);
 			}
 		}
+		for(int j=11; j<=20; j++)
+		{
+			if(j%2==0)
+			{
+				System.out.println(j);
+			}
+		}
 	}
 }
